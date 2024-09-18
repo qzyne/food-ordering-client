@@ -1,0 +1,11 @@
+.cart {
+    cursor: pointer;
+}
+
+.logout {
+    cursor: pointer;
+}
+
+.logOutIcon {
+    margin-top: -2px;
+}
